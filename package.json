@@ -1,0 +1,20 @@
+{
+    "author": "Juan Falcón",
+    "name": "hubot-daily",
+    "description": "Standup recollection bot with hubot",
+    "version": "0.0.1",
+    "homepage": "https://github.com/arcticfalcon/hubot-daily",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/arcticfalcon/hubot-daily.git"
+    },
+    "engines": {
+        "node": "> 0.6.0"
+    },
+    "main": "index.js",
+    "dependencies": {
+
+    },
+    "devDependencies": {},
+    "optionalDependencies": {}
+}
